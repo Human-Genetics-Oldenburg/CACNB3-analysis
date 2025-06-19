@@ -1,6 +1,10 @@
 #
 # R script for analyzing Ca2+ imaging data from ATP stimulation, only beta 3 subunit
 #
+# please cite:
+# Jüschke C et al. CACNB3 defects are associated with infantile idiopathic nystagmus.
+# Brain communications. 2025
+#
 # Figure 6, panels A-D
 #
 #
